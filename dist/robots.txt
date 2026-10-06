@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chapinjerez.rf.gd/sitemap.xml
